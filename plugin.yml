@@ -1,0 +1,9 @@
+name: WorldWarMine
+main: net.runedgaming.worldwarmine.WWMMain
+version: BETA1B
+depend: [ProtocolLib]
+commands:
+   wwm:
+      description: World War Mine commands. Use /wwm help for more info.
+   wwma:
+      description: World War Mine admin commands. Use /wwma help for more info.
